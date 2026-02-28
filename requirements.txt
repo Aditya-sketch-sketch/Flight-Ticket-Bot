@@ -1,0 +1,24 @@
+# ===========================
+# CORE DEPENDENCIES
+# ===========================
+# HTTP requests library
+requests==2.31.0
+
+# Environment variables management
+python-dotenv==1.0.0
+
+# Amadeus Python SDK (makes API integration easier)
+amadeus==8.1.0
+
+
+# ===========================
+# OPTIONAL DEPENDENCIES
+# ===========================
+# Uncomment below if you want to add scheduling later
+# schedule==1.2.0
+
+# Uncomment for better date/time handling
+# python-dateutil==2.8.2
+
+# Uncomment if you want database support for storing deals
+# sqlalchemy==2.0.23
